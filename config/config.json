@@ -1,0 +1,18 @@
+{
+    "devalopment": {
+        "host": "localhost",
+        "database": "test",
+        "username": "user",
+        "password": "mi04090506!!",
+        "dialect": "mysql"
+
+    },
+
+    "product": {
+        "host": "000.000.000.000",
+        "database": "",
+        "username": "",
+        "password": "",
+        "dialect": "mysql"
+    }
+}
